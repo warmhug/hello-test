@@ -1,6 +1,6 @@
 {
   "name": "hello-test",
-  "version": "0.0.3-beta.1",
+  "version": "0.0.3-rc.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
